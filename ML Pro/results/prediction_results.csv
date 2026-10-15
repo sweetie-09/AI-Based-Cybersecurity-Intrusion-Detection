@@ -1,0 +1,122 @@
+Actual,Predicted,Correct
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+DDoS,DDoS,True
+DDoS,DDoS,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+DDoS,DDoS,True
+DDoS,DDoS,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+PortScan,PortScan,True
+PortScan,PortScan,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+PortScan,PortScan,True
+PortScan,PortScan,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+PortScan,PortScan,True
+PortScan,PortScan,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+Bot,Bot,True
+Bot,Bot,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+Bot,Bot,True
+Bot,Bot,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+Infiltration,BENIGN,False
+Infiltration,Infiltration,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+Infiltration,Infiltration,True
+Infiltration,Infiltration,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+Infiltration,Infiltration,True
+Infiltration,BENIGN,False
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+Web Attack � Brute Force,Web Attack � Brute Force,True
+Web Attack � Brute Force,Web Attack � Brute Force,True
+Web Attack � Sql Injection,Web Attack � Sql Injection,True
+Web Attack � Sql Injection,Web Attack � Sql Injection,True
+Web Attack � XSS,Web Attack � XSS,True
+Web Attack � XSS,Web Attack � XSS,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+FTP-Patator,FTP-Patator,True
+FTP-Patator,FTP-Patator,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+FTP-Patator,FTP-Patator,True
+FTP-Patator,FTP-Patator,True
+SSH-Patator,SSH-Patator,True
+SSH-Patator,SSH-Patator,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+SSH-Patator,SSH-Patator,True
+SSH-Patator,SSH-Patator,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+SSH-Patator,SSH-Patator,True
+SSH-Patator,SSH-Patator,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+SSH-Patator,SSH-Patator,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+DoS Hulk,DoS Hulk,True
+DoS Hulk,DoS Hulk,True
+DoS Slowhttptest,DoS Slowhttptest,True
+DoS Slowhttptest,DoS Slowhttptest,True
+DoS slowloris,DoS slowloris,True
+DoS slowloris,DoS slowloris,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+DoS Hulk,DoS Hulk,True
+DoS Hulk,DoS Hulk,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+DoS Hulk,DoS Hulk,True
+DoS Hulk,DoS Hulk,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+DoS GoldenEye,DoS GoldenEye,True
+DoS GoldenEye,DoS GoldenEye,True
+DoS Hulk,DoS Hulk,True
+DoS Hulk,DoS Hulk,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+DoS GoldenEye,DoS GoldenEye,True
+DoS GoldenEye,DoS GoldenEye,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+DoS GoldenEye,DoS GoldenEye,True
+DoS GoldenEye,DoS GoldenEye,True
+Heartbleed,Heartbleed,True
+Heartbleed,Heartbleed,True
+BENIGN,BENIGN,True
+BENIGN,BENIGN,True
+DoS GoldenEye,DoS GoldenEye,True
+DoS GoldenEye,DoS GoldenEye,True

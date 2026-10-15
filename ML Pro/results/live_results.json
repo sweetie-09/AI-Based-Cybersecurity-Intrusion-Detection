@@ -1,0 +1,168 @@
+{
+    "packets": 340,
+    "flows": 23,
+    "normal": 17,
+    "attacks": 0,
+    "last_prediction": "BENIGN",
+    "last_confidence": 93.0,
+    "last_source": "10.94.102.208:53881",
+    "last_destination": "10.94.102.82:53",
+    "last_protocol": "UDP",
+    "last_time": "19:01:56",
+    "logs": [
+        {
+            "time": "19:01:56",
+            "source": "10.94.102.208:53881",
+            "destination": "10.94.102.82:53",
+            "protocol": "UDP",
+            "prediction": "BENIGN",
+            "confidence": 93.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:56",
+            "source": "10.94.102.208:60646",
+            "destination": "10.94.102.82:53",
+            "protocol": "UDP",
+            "prediction": "BENIGN",
+            "confidence": 93.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:53",
+            "source": "10.94.102.208:62952",
+            "destination": "10.94.102.82:53",
+            "protocol": "UDP",
+            "prediction": "BENIGN",
+            "confidence": 92.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:53",
+            "source": "10.94.102.208:53122",
+            "destination": "10.94.102.82:53",
+            "protocol": "UDP",
+            "prediction": "BENIGN",
+            "confidence": 92.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:53",
+            "source": "10.94.102.208:50428",
+            "destination": "52.182.143.212:443",
+            "protocol": "TCP",
+            "prediction": "BENIGN",
+            "confidence": 85.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:52",
+            "source": "10.94.102.208:50278",
+            "destination": "10.94.102.82:53",
+            "protocol": "UDP",
+            "prediction": "BENIGN",
+            "confidence": 91.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:52",
+            "source": "10.94.102.208:59904",
+            "destination": "10.94.102.82:53",
+            "protocol": "UDP",
+            "prediction": "BENIGN",
+            "confidence": 91.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:42",
+            "source": "10.94.102.208:49710",
+            "destination": "148.113.16.36:443",
+            "protocol": "TCP",
+            "prediction": "BENIGN",
+            "confidence": 78.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:39",
+            "source": "10.94.102.208:52231",
+            "destination": "10.94.102.82:53",
+            "protocol": "UDP",
+            "prediction": "BENIGN",
+            "confidence": 93.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:35",
+            "source": "10.94.102.208:50311",
+            "destination": "52.168.112.66:443",
+            "protocol": "TCP",
+            "prediction": "BENIGN",
+            "confidence": 81.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:34",
+            "source": "10.94.102.208:50425",
+            "destination": "20.207.73.85:443",
+            "protocol": "TCP",
+            "prediction": "BENIGN",
+            "confidence": 86.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:34",
+            "source": "10.94.102.208:50250",
+            "destination": "13.67.9.5:443",
+            "protocol": "TCP",
+            "prediction": "BENIGN",
+            "confidence": 81.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:34",
+            "source": "10.94.102.208:64556",
+            "destination": "10.94.102.82:53",
+            "protocol": "UDP",
+            "prediction": "BENIGN",
+            "confidence": 93.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:34",
+            "source": "10.94.102.208:52204",
+            "destination": "10.94.102.82:53",
+            "protocol": "UDP",
+            "prediction": "BENIGN",
+            "confidence": 93.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:34",
+            "source": "10.94.102.208:65120",
+            "destination": "10.94.102.82:53",
+            "protocol": "UDP",
+            "prediction": "BENIGN",
+            "confidence": 93.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:34",
+            "source": "10.94.102.208:50078",
+            "destination": "190.92.199.178:443",
+            "protocol": "TCP",
+            "prediction": "BENIGN",
+            "confidence": 90.0,
+            "status": "NORMAL"
+        },
+        {
+            "time": "19:01:33",
+            "source": "35.237.69.59:443",
+            "destination": "10.94.102.208:50370",
+            "protocol": "TCP",
+            "prediction": "BENIGN",
+            "confidence": 76.0,
+            "status": "NORMAL"
+        }
+    ],
+    "started_at": 1792071093.2048426
+}

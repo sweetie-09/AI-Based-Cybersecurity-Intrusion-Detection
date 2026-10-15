@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+dataset/
+*.zip
+.env
+.streamlit/secrets.toml
